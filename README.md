@@ -14,10 +14,10 @@ https://scret.me/digitalmaris330119<br>
 
 ***Tutorial for Source Files:***
 
-**1** → Download Node JS ⚠
-**2** → Download the source code
+**1** → Download Node JS ⚠<br>
+**2** → Download the source code<br>
 **3** → Open a command prompt and go to the source code directory, then, type:
-"npm i electron node-fetch"
+"npm i electron node-fetch"<br>
 **4** → To execute the code run another command in the command prompt:
 "npm start"
 
@@ -25,6 +25,6 @@ That will start a electron html page and it will be working already.
 
 ***Tutorial for release files:***
 
-**1** → Download the release files.
-**2** → Run the executable electron file.
+**1** → Download the release files.<br>
+**2** → Run the executable electron file.<br>
 **3** → Done, easy as that.
