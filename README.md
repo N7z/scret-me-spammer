@@ -13,7 +13,7 @@ https://scret.me/digitalmaris330119<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941547-131fff31-cd09-4267-b620-f98231512361.png)<br>
 **3** → Last on the timeout field place the interval time you want the message to be sent (in ms), default is 1000ms = 1 second.<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941647-a0bc1e5a-c44b-4c84-9bd8-8a9dfe4301fd.png)<br>
-**4** → Press "Attack" and it will start attacking that mf
+**4** → Press "Attack" and it will start attacking that mf<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941853-8a6cf90b-4191-4f0b-aa0a-3f35030ef896.png)<br>
 
 ***Tutorial for Source Files:***
