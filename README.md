@@ -6,10 +6,10 @@ The interface is pretty straight forward, if you download source code or release
 
 print
 
-**1** → First thing you want to place is Target URL, which should look like this:
-\nhttps://scret.me/digitalmaris330119\n
-**2** → Then, on the next field, place a message to be spammed.\n
-**3** → Last on the timeout field place the interval time you want the message to be sent (in ms), default is 1000ms = 1 second.\n
+**1** → First thing you want to place is Target URL, which should look like this:<br>
+https://scret.me/digitalmaris330119<br>
+**2** → Then, on the next field, place a message to be spammed.<br>
+**3** → Last on the timeout field place the interval time you want the message to be sent (in ms), default is 1000ms = 1 second.<br>
 **4** → Press "Attack" and it will start attacking that mf
 
 ***Tutorial for Source Files:***
