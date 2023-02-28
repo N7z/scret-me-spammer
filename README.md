@@ -7,7 +7,7 @@ The interface is pretty straight forward, if you download source code or release
 ![image](https://user-images.githubusercontent.com/73448096/221941398-c53c5c61-ed3d-41d7-914a-ab4bfd2e4a47.png)
 
 **1** → First thing you want to place is Target URL, which should look like this:<br>
-https://scret.me/digitalmaris330119<br>
+https://scret.me/junioreloi157157<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941497-98f8a723-e42e-4823-aacc-04c1e30d93f2.png)<br>
 **2** → Then, on the next field, place a message to be spammed.<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941547-131fff31-cd09-4267-b620-f98231512361.png)<br>
