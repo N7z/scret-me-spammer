@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="style.css">
+        <title>Scret.me Fucker by Paulin#8801</title>
+    </head>
+    <body>  
+        <div class="login-box">
+            <h2>Scret.me Fucker</h2>
+            <form>
+                <div class="user-box">
+                    <input type="text" name="target_link">
+                    <label>Target URL</label>
+                </div>
+                <div class="user-box">
+                    <input type="text" name="message" value="get rekt loser">
+                    <label>Message</label>
+                </div>
+                <div class="user-box">
+                    <input type="text" value="1000" name="timeout">
+                    <label>Timeout (in ms)</label>
+                </div>
+                <a href="#" id="attackBtn" class="notred" onClick="attack()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Attack
+                </a>
+            </form>
+        </div>
+
+        <script>
+            function attack() {
+                const { ipcRenderer } = require('electron');
+
+                const targetLink = document.getElementsByName('target_link')[0].value;
+                const message = document.getElementsByName('message')[0].value;
+                const timeout = document.getElementsByName('timeout')[0].value;
+                const button = document.getElementById('attackBtn');
+
+                if(button.textContent == "Stop"){
+                    ipcRenderer.send('stop');
+                }else{
+                    ipcRenderer.send('attack', targetLink, message, timeout);
+                }
+
+                button.textContent = 'Stop';
+            }
+        </script>
+    </body>
+</html>
