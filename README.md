@@ -4,7 +4,7 @@
 
 The interface is pretty straight forward, if you download source code or release files it will open the same window, then will show up this screen:
 
-print
+![image](https://user-images.githubusercontent.com/73448096/221941247-af5c7260-9442-444b-a934-28d14cdc03fa.png)
 
 **1** → First thing you want to place is Target URL, which should look like this:<br>
 https://scret.me/digitalmaris330119<br>
