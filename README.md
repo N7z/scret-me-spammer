@@ -1,6 +1,6 @@
 💣 **Scret.me SPAMMER** 💣
 
-*How to use:*
+***How to use:***
 
 The interface is pretty straight forward, if you download source code or release files it will open the same window, then will show up this screen:
 
@@ -15,7 +15,7 @@ https://scret.me/digitalmaris330119
 
 **4** → Press "Attack" and it will start attacking that mf
 
-*Tutorial for Source Files:*
+***Tutorial for Source Files:***
 
 **1** → Download Node JS ⚠
 
@@ -29,7 +29,7 @@ https://scret.me/digitalmaris330119
 
 That will start a electron html page and it will be working already.
 
-*Tutorial for release files:*
+***Tutorial for release files:***
 
 **1** → Download the release files.
 
