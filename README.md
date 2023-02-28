@@ -8,7 +8,7 @@ The interface is pretty straight forward, if you download source code or release
 
 **1** → First thing you want to place is Target URL, which should look like this:<br>
 https://scret.me/junioreloi157157<br>
-![image](https://user-images.githubusercontent.com/73448096/221946917-ed8e0397-c29a-447c-b457-3db9a2c751af.png)
+![image](https://user-images.githubusercontent.com/73448096/221946917-ed8e0397-c29a-447c-b457-3db9a2c751af.png)<br>
 **2** → Then, on the next field, place a message to be spammed.<br>
 ![image](https://user-images.githubusercontent.com/73448096/221941547-131fff31-cd09-4267-b620-f98231512361.png)<br>
 **3** → Last on the timeout field place the interval time you want the message to be sent (in ms), default is 1000ms = 1 second.<br>
